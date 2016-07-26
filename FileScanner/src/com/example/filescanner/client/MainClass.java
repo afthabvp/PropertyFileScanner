@@ -1,8 +1,3 @@
-/**
- * 6d Technologies
- * Copyright 2016
- * All Rights Reserved.
- */
 package com.example.filescanner.client;
 /**
  * 
